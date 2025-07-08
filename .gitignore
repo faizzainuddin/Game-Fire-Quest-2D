@@ -1,0 +1,15 @@
+*.class
+*.jar
+*.log
+*.dat
+*.tmp
+
+/.idea/
+/.vscode/
+/nbproject/
+/bin/
+/out/
+/build/
+
+.DS_Store
+Thumbs.db
